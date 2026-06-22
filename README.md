@@ -27,16 +27,16 @@ An AI-powered travel planning system built with Google ADK that helps users disc
 ## Project Structure
 
 
-Travel_planner_post
-│
-├── pyproject.toml
-│
-└── travel_planner
-    │
-    ├── __init__.py (for root)
-    ├── agent.py
-    ├── supporting_agents.py
-    └── tools.py
+ Travel_planner_post
+ │
+ ├── pyproject.toml
+ │
+ └── travel_planner
+     │
+     ├── __init__.py (for root)
+     ├── agent.py
+     ├── supporting_agents.py
+     └── tools.py
 
 
 ## Components
